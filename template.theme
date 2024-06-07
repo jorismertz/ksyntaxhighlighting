@@ -1,0 +1,1174 @@
+{
+    "custom-styles": {
+        "Alerts": {
+            "Alert Level 1": {
+                "background-color": "$love",
+                "selected-text-color": "$base",
+                "text-color": "$base"
+            },
+            "Alert Level 2": {
+                "background-color": "$gold",
+                "selected-text-color": "$base",
+                "text-color": "$base"
+            },
+            "Alert Level 3": {
+                "background-color": "$foam",
+                "selected-text-color": "$base",
+                "text-color": "$base"
+            }
+        },
+        "Bash": {
+            "Backquote": {
+                "selected-text-color": "$rose",
+                "text-color": "$rose"
+            },
+            "Builtin": {
+                "selected-text-color": "$rose",
+                "text-color": "$rose"
+            },
+            "Command": {
+                "selected-text-color": "$rose",
+                "text-color": "$rose"
+            },
+            "Control": {
+                "selected-text-color": "$text",
+                "text-color": "$text"
+            },
+            "Dollar Prefix": {
+                "italic": true,
+                "selected-text-color": "$love",
+                "text-color": "$love"
+            },
+            "Escape": {
+                "selected-text-color": "$text",
+                "text-color": "$text"
+            },
+            "Expression": {
+                "selected-text-color": "$love",
+                "text-color": "$love"
+            },
+            "Glob": {
+                "selected-text-color": "$text",
+                "text-color": "$text"
+            },
+            "Option": {
+                "selected-text-color": "$text",
+                "text-color": "$text"
+            },
+            "Parameter Expansion": {
+                "selected-text-color": "$iris",
+                "text-color": "$iris"
+            },
+            "String Escape": {
+                "selected-text-color": "$foam",
+                "text-color": "$foam"
+            },
+            "Variable": {
+                "italic": true,
+                "selected-text-color": "$love",
+                "text-color": "$love"
+            }
+        },
+        "BibTeX": {
+            "Command": {
+                "selected-text-color": "$rose",
+                "text-color": "$rose"
+            },
+            "Entry": {
+                "selected-text-color": "$rose",
+                "text-color": "$rose"
+            },
+            "Field": {
+                "selected-text-color": "$iris",
+                "text-color": "$iris"
+            },
+            "Ref Key": {
+                "selected-text-color": "$iris",
+                "text-color": "$iris"
+            }
+        },
+        "C": {
+            "Attribute": {
+                "selected-text-color": "$iris",
+                "text-color": "$iris"
+            },
+            "Prep. Lib": {
+                "selected-text-color": "$text",
+                "text-color": "$text"
+            },
+            "Preprocessor": {
+                "selected-text-color": "$iris",
+                "text-color": "$iris"
+            },
+            "Standard Attribute": {
+                "selected-text-color": "$text",
+                "text-color": "$text"
+            },
+            "Standard Suffix": {
+                "selected-text-color": "$text",
+                "text-color": "$text"
+            }
+        },
+        "C++": {
+            "Qt Classes": {
+                "selected-text-color": "$text",
+                "text-color": "$text"
+            },
+            "Qt Functions": {
+                "selected-text-color": "$text",
+                "text-color": "$text"
+            },
+            "Qt Types": {
+                "selected-text-color": "$text",
+                "text-color": "$text"
+            }
+        },
+        "CMake": {
+            "Aliased Targets": {
+                "selected-text-color": "$text",
+                "text-color": "$text"
+            },
+            "Builtin Variable": {
+                "selected-text-color": "$rose",
+                "text-color": "$rose"
+            },
+            "Command": {
+                "selected-text-color": "$pine",
+                "text-color": "$pine"
+            },
+            "Environment Variable Substitution": {
+                "selected-text-color": "$text",
+                "text-color": "$text"
+            },
+            "False Special Arg": {
+                "selected-text-color": "$text",
+                "text-color": "$text"
+            },
+            "Generator Expression": {
+                "selected-text-color": "$gold",
+                "text-color": "$gold"
+            },
+            "Generator Expression Keyword": {
+                "selected-text-color": "$rose",
+                "text-color": "$rose"
+            },
+            "Internal Name": {
+                "selected-text-color": "$text",
+                "text-color": "$text"
+            },
+            "Named Args": {
+                "bold": true,
+                "selected-text-color": "$text",
+                "text-color": "$text"
+            },
+            "Property": {
+                "bold": true,
+                "selected-text-color": "$text",
+                "text-color": "$text"
+            },
+            "Region Marker": {
+                "selected-text-color": "$overlay",
+                "text-color": "$overlay"
+            },
+            "Special Args": {
+                "bold": true,
+                "selected-text-color": "$text",
+                "text-color": "$text"
+            },
+            "True Special Arg": {
+                "bold": true,
+                "selected-text-color": "$text",
+                "text-color": "$text"
+            },
+            "User Function/Macro": {
+                "selected-text-color": "$text",
+                "text-color": "$text"
+            },
+            "Variable Substitution": {
+                "selected-text-color": "$pine",
+                "text-color": "$pine"
+            },
+            "Version Arg": {
+                "selected-text-color": "$text",
+                "text-color": "$text"
+            }
+        },
+        "CSS": {
+            "At Rule": {
+                "italic": true,
+                "selected-text-color": "$love",
+                "text-color": "$love"
+            },
+            "Color": {
+                "selected-text-color": "$gold",
+                "text-color": "$gold"
+            },
+            "Function": {
+                "selected-text-color": "$foam",
+                "text-color": "$foam"
+            },
+            "Operator": {
+                "selected-text-color": "$text",
+                "text-color": "$text"
+            },
+            "Property": {
+                "selected-text-color": "$pine",
+                "text-color": "$pine"
+            },
+            "Selector Attribute": {
+                "selected-text-color": "$iris",
+                "text-color": "$iris"
+            },
+            "Selector Class": {
+                "selected-text-color": "$foam",
+                "text-color": "$foam"
+            },
+            "Selector Id": {
+                "selected-text-color": "$pine",
+                "text-color": "$pine"
+            },
+            "Selector Pseudo": {
+                "selected-text-color": "$foam",
+                "text-color": "$foam"
+            },
+            "Selector Tag": {
+                "selected-text-color": "$gold",
+                "text-color": "$gold"
+            },
+            "Separator Symbol": {
+                "selected-text-color": "$iris",
+                "text-color": "$iris"
+            },
+            "Unit": {
+                "selected-text-color": "$text",
+                "text-color": "$text"
+            },
+            "Value": {
+                "selected-text-color": "$iris",
+                "text-color": "$iris"
+            }
+        },
+        "Diff": {
+            "Added line": {
+                "selected-text-color": "$foam",
+                "text-color": "$foam"
+            },
+            "Changed line (new)": {
+                "selected-text-color": "$pine",
+                "text-color": "$pine"
+            },
+            "Changed line (old)": {
+                "selected-text-color": "$pine",
+                "text-color": "$pine"
+            },
+            "Removed line": {
+                "selected-text-color": "$love",
+                "text-color": "$love"
+            }
+        },
+        "Doxygen": {
+            "Custom Tags": {
+                "selected-text-color": "$love",
+                "text-color": "$love"
+            },
+            "Dot Graph": {
+                "text-color": "$foam"
+            },
+            "Entities": {
+                "text-color": "$rose"
+            },
+            "Formulas": {
+                "text-color": "$foam"
+            },
+            "Message Sequence Chart": {
+                "text-color": "$foam"
+            },
+            "Tags": {
+                "selected-text-color": "$love",
+                "text-color": "$love"
+            }
+        },
+        "Fish": {
+            "Builtin": {
+                "selected-text-color": "$rose",
+                "text-color": "$rose"
+            },
+            "Escape": {
+                "selected-text-color": "$iris",
+                "text-color": "$iris"
+            },
+            "Option": {
+                "selected-text-color": "$love",
+                "text-color": "$love"
+            },
+            "Redirection": {
+                "selected-text-color": "$foam",
+                "text-color": "$foam"
+            },
+            "Separator": {
+                "selected-text-color": "$foam",
+                "text-color": "$foam"
+            },
+            "Variable": {
+                "selected-text-color": "$text",
+                "text-color": "$text"
+            }
+        },
+        "GCCExtensions": {
+            "GNU Extensions": {
+                "selected-text-color": "$text",
+                "text-color": "$text"
+            },
+            "GNU Functions": {
+                "selected-text-color": "$text",
+                "text-color": "$text"
+            },
+            "GNU Macros": {
+                "selected-text-color": "$text",
+                "text-color": "$text"
+            }
+        },
+        "Go": {
+            "Builtin Function": {
+                "selected-text-color": "$rose",
+                "text-color": "$rose"
+            },
+            "Data Type": {
+                "selected-text-color": "$pine",
+                "text-color": "$pine"
+            },
+            "Keyword": {
+                "selected-text-color": "$iris",
+                "text-color": "$iris"
+            },
+            "Predeclared Identifier": {
+                "bold": true
+            }
+        },
+        "Godot": {
+            "Definition Keyword": {
+                "italic": true,
+                "selected-text-color": "$gold",
+                "text-color": "$gold"
+            },
+            "Function Call": {
+                "italic": true
+            },
+            "Special Variable": {
+                "selected-text-color": "$rose",
+                "text-color": "$rose"
+            },
+            "UnusedVariable": {
+                "italic": false,
+                "selected-text-color": "$text",
+                "text-color": "$text"
+            }
+        },
+        "HTML": {
+            "Attribute": {
+                "selected-text-color": "$gold",
+                "text-color": "$gold"
+            },
+            "Element": {
+                "selected-text-color": "$pine",
+                "text-color": "$pine"
+            },
+            "Element Symbols": {
+                "selected-text-color": "$foam",
+                "text-color": "$foam"
+            },
+            "Other Text": {
+                "selected-text-color": "$pine",
+                "text-color": "$pine"
+            }
+        },
+        "ISO C++": {
+            "Boost Stuff": {
+                "selected-text-color": "$text",
+                "text-color": "$text"
+            },
+            "Keyword": {
+                "italic": true,
+                "selected-text-color": "$rose",
+                "text-color": "$rose"
+            },
+            "Prep. Lib": {
+                "selected-text-color": "$text",
+                "text-color": "$text"
+            },
+            "Preprocessor": {
+                "selected-text-color": "$iris",
+                "text-color": "$iris"
+            },
+            "Raw String": {
+                "selected-text-color": "$foam",
+                "text-color": "$foam"
+            },
+            "Standard Classes": {
+                "selected-text-color": "$text",
+                "text-color": "$text"
+            },
+            "Standard Macros": {
+                "selected-text-color": "$text",
+                "text-color": "$text"
+            },
+            "Standard Suffix": {
+                "selected-text-color": "$foam",
+                "text-color": "$foam"
+            },
+            "Type Modifiers": {
+                "selected-text-color": "$iris",
+                "text-color": "$iris"
+            }
+        },
+        "JSON": {
+            "Style_Seperator_Array": {
+                "selected-text-color": "$text",
+                "text-color": "$text"
+            },
+            "Style_Seperator_Pair": {
+                "selected-text-color": "$text",
+                "text-color": "$text"
+            },
+            "Style_String_Key": {
+                "selected-text-color": "$pine",
+                "text-color": "$pine"
+            }
+        },
+        "Java": {
+            "Function": {
+                "italic": true,
+                "selected-text-color": "$surface",
+                "text-color": "$surface"
+            },
+            "Java15": {
+                "italic": true,
+                "selected-text-color": "$gold",
+                "text-color": "$gold"
+            }
+        },
+        "JavaScript": {
+            "Built-in Objects": {
+                "selected-text-color": "$text",
+                "text-color": "$text"
+            },
+            "Constant": {
+                "selected-text-color": "$text",
+                "text-color": "$text"
+            },
+            "Function Declaration": {
+                "selected-text-color": "$text",
+                "text-color": "$text"
+            },
+            "Function Name": {
+                "selected-text-color": "$text",
+                "text-color": "$text"
+            },
+            "JSON": {
+                "selected-text-color": "$text",
+                "text-color": "$text"
+            },
+            "Object Member": {
+                "selected-text-color": "$text",
+                "text-color": "$text"
+            },
+            "Object Method (Built-in)": {
+                "selected-text-color": "$text",
+                "text-color": "$text"
+            },
+            "Pattern Character Class": {
+                "selected-text-color": "$text",
+                "text-color": "$text"
+            },
+            "Pattern Internal Operator": {
+                "selected-text-color": "$text",
+                "text-color": "$text"
+            },
+            "Regular Expression": {
+                "selected-text-color": "$text",
+                "text-color": "$text"
+            },
+            "Reserved": {
+                "selected-text-color": "$text",
+                "text-color": "$text"
+            },
+            "Template": {
+                "selected-text-color": "$text",
+                "text-color": "$text"
+            }
+        },
+        "Javadoc": {
+            "BlockTag": {
+                "italic": true,
+                "selected-text-color": "$love",
+                "text-color": "$love"
+            }
+        },
+        "Kconfig": {
+            "Help Text": {
+                "selected-text-color": "$text",
+                "text-color": "$text"
+            },
+            "Property": {
+                "selected-text-color": "$rose",
+                "text-color": "$rose"
+            },
+            "Source": {
+                "text-color": "#f50000"
+            }
+        },
+        "Kotlin": {
+            "Function": {
+                "italic": true
+            },
+            "Keyword": {
+                "selected-text-color": "$iris",
+                "text-color": "$iris"
+            },
+            "String Interpolation": {
+                "selected-text-color": "$foam",
+                "text-color": "$foam"
+            }
+        },
+        "LaTeX": {
+            "Ampersand": {
+                "selected-text-color": "$iris",
+                "text-color": "$iris"
+            },
+            "Builtin Macro": {
+                "selected-text-color": "$iris",
+                "text-color": "$iris"
+            },
+            "Column Separator": {
+                "selected-text-color": "$iris",
+                "text-color": "$iris"
+            },
+            "Environment": {
+                "selected-text-color": "$iris",
+                "text-color": "$iris"
+            },
+            "Macro": {
+                "selected-text-color": "$iris",
+                "text-color": "$iris"
+            },
+            "Math": {
+                "selected-text-color": "$iris",
+                "text-color": "$iris"
+            },
+            "Option Text": {
+                "selected-text-color": "$rose",
+                "text-color": "$rose"
+            },
+            "Reference": {
+                "selected-text-color": "$iris",
+                "text-color": "$iris"
+            },
+            "Region Marker": {
+                "italic": true,
+                "selected-text-color": "$overlay",
+                "text-color": "$overlay"
+            },
+            "Sectioning Macro": {
+                "selected-text-color": "$iris",
+                "text-color": "$iris"
+            },
+            "Sectioning Math": {
+                "selected-text-color": "$iris",
+                "text-color": "$iris"
+            },
+            "Structure": {
+                "selected-text-color": "$iris",
+                "text-color": "$iris"
+            },
+            "Verbatim": {
+                "selected-text-color": "$iris",
+                "text-color": "$iris"
+            },
+            "Verbatim Code": {
+                "selected-text-color": "$text",
+                "text-color": "$text"
+            }
+        },
+        "Lua": {
+            "Constant": {
+                "selected-text-color": "$text",
+                "text-color": "$text"
+            },
+            "Keyword": {
+                "selected-text-color": "$iris",
+                "text-color": "$iris"
+            },
+            "Special Variable": {
+                "selected-text-color": "$rose",
+                "text-color": "$rose"
+            }
+        },
+        "Makefile": {
+            "Silent": {
+                "selected-text-color": "$rose",
+                "text-color": "$rose"
+            }
+        },
+        "Markdown": {
+            "Auto-Link": {
+                "italic": true,
+                "selected-text-color": "$rose",
+                "text-color": "$rose",
+                "underline": true
+            },
+            "Blockquote": {
+                "selected-text-color": "$foam",
+                "text-color": "$foam"
+            },
+            "Blockquote: Emphasis Text": {
+                "selected-text-color": "$love",
+                "text-color": "$love"
+            },
+            "Blockquote: Link": {
+                "selected-text-color": "$foam",
+                "text-color": "$foam"
+            },
+            "Blockquote: Normal Text": {
+                "selected-text-color": "$foam",
+                "text-color": "$foam"
+            },
+            "Blockquote: Strikethrough Text": {
+                "selected-text-color": "$foam",
+                "text-color": "$foam"
+            },
+            "Blockquote: Strong Text": {
+                "selected-text-color": "$love",
+                "text-color": "$love"
+            },
+            "Blockquote: Strong-Emphasis Text": {
+                "selected-text-color": "$love",
+                "text-color": "$love"
+            },
+            "Code": {
+                "selected-text-color": "$foam",
+                "text-color": "$foam"
+            },
+            "Email": {
+                "selected-text-color": "$rose",
+                "text-color": "$rose"
+            },
+            "Emphasis Text": {
+                "selected-text-color": "$love",
+                "text-color": "$love"
+            },
+            "Fenced Code": {
+                "selected-text-color": "$iris",
+                "text-color": "$iris"
+            },
+            "Inline Image": {
+                "selected-text-color": "#b4befc",
+                "text-color": "#b4befc"
+            },
+            "Inline Image: Link": {
+                "italic": true,
+                "selected-text-color": "$rose",
+                "text-color": "$rose"
+            },
+            "Line Break": {
+                "text-color": "$text"
+            },
+            "Link": {
+                "italic": true,
+                "selected-text-color": "$rose",
+                "text-color": "$rose"
+            },
+            "List": {
+                "selected-text-color": "$iris",
+                "text-color": "$iris"
+            },
+            "List: Checkbox": {
+                "selected-text-color": "$foam",
+                "text-color": "$foam"
+            },
+            "List: Emphasis Text": {
+                "selected-text-color": "$love",
+                "text-color": "$love"
+            },
+            "List: Link": {
+                "italic": true,
+                "selected-text-color": "$rose",
+                "text-color": "$rose"
+            },
+            "List: Normal Text": {
+                "selected-text-color": "$foam",
+                "text-color": "$foam"
+            },
+            "List: Strong Text": {
+                "selected-text-color": "$love",
+                "text-color": "$love"
+            },
+            "List: Strong-Emphasis Text": {
+                "selected-text-color": "$love",
+                "text-color": "$love"
+            },
+            "Mailto-Link": {
+                "italic": true,
+                "selected-text-color": "$rose",
+                "text-color": "$rose",
+                "underline": true
+            },
+            "Metadata": {
+                "selected-text-color": "$text",
+                "text-color": "$text"
+            },
+            "Metadata Title": {
+                "selected-text-color": "$text",
+                "text-color": "$text"
+            },
+            "Normal Text: Link": {
+                "selected-text-color": "$rose",
+                "text-color": "$rose"
+            },
+            "Number List": {
+                "selected-text-color": "$iris",
+                "text-color": "$iris"
+            },
+            "Reference Image": {
+                "bold": true,
+                "selected-text-color": "$rose",
+                "text-color": "$rose",
+                "underline": true
+            },
+            "Reference-Link": {
+                "selected-text-color": "$foam",
+                "text-color": "$foam"
+            },
+            "Reference-Link ID": {
+                "italic": true,
+                "selected-text-color": "#b4befc",
+                "text-color": "#b4befc"
+            },
+            "Reference-Link Name": {
+                "italic": true,
+                "selected-text-color": "#b4befc",
+                "text-color": "#b4befc"
+            },
+            "Reference-Link Target": {
+                "selected-text-color": "#b4befc",
+                "text-color": "#b4befc"
+            },
+            "Reference-Link Target: Link": {
+                "italic": true,
+                "selected-text-color": "$rose",
+                "text-color": "$rose"
+            },
+            "Reference-Link: Email": {
+                "selected-text-color": "$rose",
+                "text-color": "$rose"
+            },
+            "Reference-Link: Link": {
+                "italic": true,
+                "selected-text-color": "$rose",
+                "text-color": "$rose"
+            },
+            "Strong Text": {
+                "selected-text-color": "$love",
+                "text-color": "$love"
+            },
+            "Strong-Emphasis Text": {
+                "selected-text-color": "$love",
+                "text-color": "$love"
+            }
+        },
+        "Python": {
+            "Builtin Function": {
+                "italic": true,
+                "selected-text-color": "$rose",
+                "text-color": "$rose"
+            },
+            "F-String": {
+                "selected-text-color": "$foam",
+                "text-color": "$foam"
+            },
+            "Import": {
+                "selected-text-color": "$iris",
+                "text-color": "$iris"
+            },
+            "Raw B-String": {
+                "selected-text-color": "$foam",
+                "text-color": "$foam"
+            },
+            "Raw F-String": {
+                "selected-text-color": "$foam",
+                "text-color": "$foam"
+            },
+            "Raw String": {
+                "selected-text-color": "$foam",
+                "text-color": "$foam"
+            }
+        },
+        "Ruby": {
+            "Constant": {
+                "selected-text-color": "$pine",
+                "text-color": "$pine"
+            },
+            "Default globals": {
+                "selected-text-color": "$rose",
+                "text-color": "$rose"
+            },
+            "Global Constant": {
+                "selected-text-color": "$foam",
+                "text-color": "$foam"
+            },
+            "Global Variable": {
+                "selected-text-color": "$rose",
+                "text-color": "$rose"
+            },
+            "Here Document": {
+                "selected-text-color": "$foam",
+                "text-color": "$foam"
+            },
+            "Instance Variable": {
+                "selected-text-color": "$rose",
+                "text-color": "$rose"
+            },
+            "Kernel methods": {
+                "selected-text-color": "$iris",
+                "text-color": "$iris"
+            },
+            "Message": {
+                "selected-text-color": "$text",
+                "text-color": "$text"
+            },
+            "Raw String": {
+                "selected-text-color": "$foam",
+                "text-color": "$foam"
+            },
+            "Regular Expression": {
+                "selected-text-color": "$iris",
+                "text-color": "$iris"
+            }
+        },
+        "Rust": {
+            "Attribute": {
+                "italic": true
+            },
+            "CharEscape": {
+                "selected-text-color": "$foam",
+                "text-color": "$foam"
+            },
+            "Definition": {
+                "italic": true,
+                "selected-text-color": "$pine",
+                "text-color": "$pine"
+            },
+            "Macro": {
+                "selected-text-color": "$foam",
+                "text-color": "$foam"
+            },
+            "Scope": {
+                "selected-text-color": "$text",
+                "text-color": "$text"
+            },
+            "Self": {
+                "selected-text-color": "$rose",
+                "text-color": "$rose"
+            },
+            "Trait": {
+                "italic": true,
+                "selected-text-color": "$gold",
+                "text-color": "$gold"
+            }
+        },
+        "SQL": {
+            "Operator Keyword": {
+                "selected-text-color": "$iris",
+                "text-color": "$iris"
+            }
+        },
+        "TOML": {
+            "Key": {
+                "selected-text-color": "$pine",
+                "text-color": "$pine"
+            },
+            "LitString": {
+                "selected-text-color": "$foam",
+                "text-color": "$foam"
+            }
+        },
+        "XML": {
+            "Attribute": {
+                "selected-text-color": "$gold",
+                "text-color": "$gold"
+            },
+            "Doctype": {
+                "selected-text-color": "$pine",
+                "text-color": "$pine"
+            },
+            "Doctype Name": {
+                "selected-text-color": "$gold",
+                "text-color": "$gold"
+            },
+            "Doctype Symbols": {
+                "selected-text-color": "$pine",
+                "text-color": "$pine"
+            },
+            "Element": {
+                "selected-text-color": "$pine",
+                "text-color": "$pine"
+            },
+            "PI Symbols": {
+                "selected-text-color": "$gold",
+                "text-color": "$gold"
+            },
+            "Processing Instruction": {
+                "selected-text-color": "$gold",
+                "text-color": "$gold"
+            }
+        },
+        "YAML": {
+            "Alert": {
+                "background-color": "$love",
+                "selected-text-color": "$base",
+                "text-color": "$base"
+            },
+            "Alias": {
+                "selected-text-color": "$surface",
+                "text-color": "$surface"
+            },
+            "Attribute": {
+                "selected-text-color": "$text",
+                "text-color": "$text"
+            },
+            "Boolean": {
+                "selected-text-color": "$text",
+                "text-color": "$text"
+            },
+            "Data Types": {
+                "selected-text-color": "$text",
+                "text-color": "$text"
+            },
+            "Document Header": {
+                "selected-text-color": "$foam",
+                "text-color": "$foam"
+            },
+            "Escaped Character": {
+                "selected-text-color": "$foam",
+                "text-color": "$foam"
+            },
+            "Float": {
+                "selected-text-color": "$text",
+                "text-color": "$text"
+            },
+            "Integer": {
+                "selected-text-color": "$text",
+                "text-color": "$text"
+            },
+            "Key Points Operator": {
+                "selected-text-color": "$foam",
+                "text-color": "$foam"
+            },
+            "List": {
+                "selected-text-color": "$text",
+                "text-color": "$text"
+            },
+            "Literal/Folded Block": {
+                "selected-text-color": "$foam",
+                "text-color": "$foam"
+            },
+            "Literal/Folded Operator": {
+                "selected-text-color": "$foam",
+                "text-color": "$foam"
+            },
+            "Normal Text": {
+                "selected-text-color": "$text",
+                "text-color": "$text"
+            },
+            "Null": {
+                "selected-text-color": "$text",
+                "text-color": "$text"
+            },
+            "Operator": {
+                "selected-text-color": "$foam",
+                "text-color": "$foam"
+            }
+        },
+        "sed": {
+            "Last Line": {
+                "text-color": "$rose"
+            },
+            "Negation": {
+                "text-color": "$rose"
+            },
+            "Separator": {
+                "selected-text-color": "$love",
+                "text-color": "$love"
+            }
+        }
+    },
+    "editor-colors": {
+        "BackgroundColor": "$base",
+        "BracketMatching": "#32f0c6c6",
+        "CodeFolding": "#1a91d7e3",
+        "CurrentLine": "$surface",
+        "CurrentLineNumber": "$text",
+        "IconBorder": "$base",
+        "IndentationLine": "$surface",
+        "LineNumbers": "$subtle",
+        "MarkBookmark": "$iris",
+        "MarkBreakpointActive": "$iris",
+        "MarkBreakpointDisabled": "$overlay",
+        "MarkBreakpointReached": "$foam",
+        "MarkError": "$love",
+        "MarkExecution": "$overlay",
+        "MarkWarning": "$rose",
+        "ModifiedLines": "$rose",
+        "ReplaceHighlight": "#66a6da95",
+        "SavedLines": "$foam",
+        "SearchHighlight": "#668aadf4",
+        "Separator": "$base",
+        "SpellChecking": "$love",
+        "TabMarker": "$surface",
+        "TemplateBackground": "$surface",
+        "TemplateFocusedPlaceholder": "$foam",
+        "TemplatePlaceholder": "$foam",
+        "TemplateReadOnlyPlaceholder": "$love",
+        "TextSelection": "#8c494d64",
+        "WordWrapMarker": "$surface"
+    },
+    "metadata": {
+        "copyright": [
+            "SPDX-FileCopyrightText: 2021 Catppuccin Org"
+        ],
+        "license": "SPDX-License-Identifier: MIT",
+        "name": "Catppuccin Macchiato",
+        "revision": 3
+    },
+    "text-styles": {
+        "Alert": {
+            "bold": true,
+            "selected-text-color": "$love",
+            "text-color": "$love"
+        },
+        "Annotation": {
+            "selected-text-color": "$gold",
+            "text-color": "$gold"
+        },
+        "Attribute": {
+            "selected-text-color": "$iris",
+            "text-color": "$iris"
+        },
+        "BaseN": {
+            "selected-text-color": "$rose",
+            "text-color": "$rose"
+        },
+        "BuiltIn": {
+            "selected-text-color": "$love",
+            "text-color": "$love"
+        },
+        "Char": {
+            "selected-text-color": "$iris",
+            "text-color": "$iris"
+        },
+        "Comment": {
+            "italic": true,
+            "selected-text-color": "$overlay",
+            "text-color": "$overlay"
+        },
+        "CommentVar": {
+            "italic": true,
+            "selected-text-color": "$overlay",
+            "text-color": "$overlay"
+        },
+        "Constant": {
+            "selected-text-color": "$rose",
+            "text-color": "$rose"
+        },
+        "ControlFlow": {
+            "selected-text-color": "$iris",
+            "text-color": "$iris"
+        },
+        "DataType": {
+            "selected-text-color": "$iris",
+            "text-color": "$iris"
+        },
+        "DecVal": {
+            "selected-text-color": "$rose",
+            "text-color": "$rose"
+        },
+        "Documentation": {
+            "selected-text-color": "$love",
+            "text-color": "$love"
+        },
+        "Error": {
+            "selected-text-color": "$love",
+            "text-color": "$love",
+            "underline": true
+        },
+        "Extension": {
+            "selected-text-color": "$pine",
+            "text-color": "$pine"
+        },
+        "Float": {
+            "selected-text-color": "$rose",
+            "text-color": "$rose"
+        },
+        "Function": {
+            "selected-text-color": "$pine",
+            "text-color": "$pine"
+        },
+        "Import": {
+            "selected-text-color": "$foam",
+            "text-color": "$foam"
+        },
+        "Information": {
+            "selected-text-color": "$rose",
+            "text-color": "$rose"
+        },
+        "Keyword": {
+            "selected-text-color": "$iris",
+            "text-color": "$iris"
+        },
+        "Normal": {
+            "selected-text-color": "$text",
+            "text-color": "$text"
+        },
+        "Operator": {
+            "selected-text-color": "$foam",
+            "text-color": "$foam"
+        },
+        "Others": {
+            "selected-text-color": "$rose",
+            "text-color": "$rose"
+        },
+        "Preprocessor": {
+            "selected-text-color": "$iris",
+            "text-color": "$iris"
+        },
+        "RegionMarker": {
+            "italic": true,
+            "selected-text-color": "$overlay",
+            "text-color": "$overlay"
+        },
+        "SpecialChar": {
+            "selected-text-color": "$iris",
+            "text-color": "$iris"
+        },
+        "SpecialString": {
+            "selected-text-color": "$love",
+            "text-color": "$love"
+        },
+        "String": {
+            "selected-text-color": "$foam",
+            "text-color": "$foam"
+        },
+        "Variable": {
+            "selected-text-color": "$iris",
+            "text-color": "$iris"
+        },
+        "VerbatimString": {
+            "selected-text-color": "$love",
+            "text-color": "$love"
+        },
+        "Warning": {
+            "selected-text-color": "$love",
+            "text-color": "$love"
+        }
+    }
+}
+
